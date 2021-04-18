@@ -2,7 +2,7 @@
 
 We have used the tensorflow official object-detection example android (https://github.com/tensorflow/models/tree/master/research/object_detection)
 
-### Tensorflow official Overview
+### Overview
 
 This is integrated speech api android application that detects the objects in real 
 time and spells out the object the app has detected.
